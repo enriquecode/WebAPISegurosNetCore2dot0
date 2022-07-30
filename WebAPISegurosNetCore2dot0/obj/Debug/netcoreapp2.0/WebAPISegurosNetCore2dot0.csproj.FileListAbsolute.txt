@@ -1,0 +1,11 @@
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\bin\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.deps.json
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\bin\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.runtimeconfig.json
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\bin\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.runtimeconfig.dev.json
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\bin\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.dll
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\obj\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.csprojAssemblyReference.cache
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\obj\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.csproj.CoreCompileInputs.cache
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\obj\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.AssemblyInfoInputs.cache
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\obj\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.AssemblyInfo.cs
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\bin\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.pdb
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\obj\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.dll
+C:\Users\casti\source\repos\WebAPISegurosNetCore2dot0\WebAPISegurosNetCore2dot0\obj\Debug\netcoreapp2.0\WebAPISegurosNetCore2dot0.pdb
