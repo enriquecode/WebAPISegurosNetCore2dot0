@@ -14,11 +14,11 @@ namespace WebAPISegurosNetCore2dot0.Models
             Descripcion = new HashSet<Descripcion>();
         }
 
-        public int IdModelo { get; set; }
-        public int IdSubMarca { get; set; }
-        public int Modelo1 { get; set; }
+        public int ModeloId { get; set; }
+        public int SubMarcaId { get; set; }
+        public int Ano { get; set; }
 
-        public virtual SubMarca IdSubMarcaNavigation { get; set; }
+        public virtual SubMarca SubMarca { get; set; }
         public virtual ICollection<Descripcion> Descripcion { get; set; }
     }
 }

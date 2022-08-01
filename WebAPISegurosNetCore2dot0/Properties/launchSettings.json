@@ -11,7 +11,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/Seguros/ObtenerMarcas",
+      "launchUrl": "api/Seguros/Catalogos/ObtenerMarcas",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -19,7 +19,7 @@
     "WebAPISegurosNetCore2dot0": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "api/Seguros/ObtenerMarcas",
+      "launchUrl": "api/Seguros/Catalogos/ObtenerMarcas",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },

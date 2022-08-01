@@ -7,16 +7,17 @@ using System.Collections.Generic;
 
 namespace WebAPISegurosNetCore2dot0.Models
 {
-    public partial class Marca
+    public partial class Entidad
     {
-        public Marca()
+        public Entidad()
         {
-            SubMarca = new HashSet<SubMarca>();
+            Municipio = new HashSet<Municipio>();
         }
 
-        public int MarcaId { get; set; }
-        public string MarcaDescripcion { get; set; }
+        public int EntidadId { get; set; }
+        public string ClaveEntidad { get; set; }
+        public string EntidadNombre { get; set; }
 
-        public virtual ICollection<SubMarca> SubMarca { get; set; }
+        public virtual ICollection<Municipio> Municipio { get; set; }
     }
 }

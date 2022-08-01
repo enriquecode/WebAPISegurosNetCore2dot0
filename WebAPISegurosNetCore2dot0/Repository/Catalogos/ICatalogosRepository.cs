@@ -11,10 +11,12 @@ namespace WebAPISegurosNetCore2dot0.RepositoryCatalogos
     {
         Task<List<Marca>> ObtenerMarcas();
 
-        Task<List<SubMarca>> ObtenerSubMarcas(int IdMarca);
+        Task<List<SubMarca>> ObtenerSubMarcas(int MarcaId);
 
-        Task<List<Modelo>> ObtenerModelos(int IdSubMarca);
+        Task<List<Modelo>> ObtenerModelos(int SubMarcaId);
 
-        Task<List<Descripcion>> ObtenerDescripciones(int IdModelo);
+        Task<List<Descripcion>> ObtenerDescripciones(int ModeloId);
+
+        Task<List<UbicacionGeografica>> ObtenerUbicacionesGeograficas(string CodigoPostalNumero);
     }
 }

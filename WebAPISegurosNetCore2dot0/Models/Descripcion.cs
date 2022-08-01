@@ -10,9 +10,9 @@ namespace WebAPISegurosNetCore2dot0.Models
     public partial class Descripcion
     {
         public string DescripcionId { get; set; }
-        public int IdModelo { get; set; }
-        public string Descripcion1 { get; set; }
+        public int ModeloId { get; set; }
+        public string DescripcionDetallada { get; set; }
 
-        public virtual Modelo IdModeloNavigation { get; set; }
+        public virtual Modelo Modelo { get; set; }
     }
 }

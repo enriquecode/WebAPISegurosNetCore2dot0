@@ -7,16 +7,12 @@ using System.Collections.Generic;
 
 namespace WebAPISegurosNetCore2dot0.Models
 {
-    public partial class Marca
+    public partial class Colonia
     {
-        public Marca()
-        {
-            SubMarca = new HashSet<SubMarca>();
-        }
+        public int ColoniaId { get; set; }
+        public int CodigoPostalId { get; set; }
+        public string ColoniaNombre { get; set; }
 
-        public int MarcaId { get; set; }
-        public string MarcaDescripcion { get; set; }
-
-        public virtual ICollection<SubMarca> SubMarca { get; set; }
+        public virtual CodigoPostal CodigoPostal { get; set; }
     }
 }
